@@ -1,0 +1,51 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: space-between;
+    background-color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 1.2em;
+    text-align: justify;
+    color: #303030;
+}
+
+.poem {
+    margin: 2em auto;
+}
+
+.poem h1 {
+    font-weight: 400;
+    font-style: italic;
+    color: #3a3a3c;
+    font-size: 1.5rem;
+    margin-bottom: 1em;
+}
+
+.poem blockquote {
+}
+
+.poem p {
+    margin-bottom: 1em;
+}
+
+
+.poem-list {
+    margin: 2em auto;
+}
+
+
+a {
+    color: #3a3a3c;
+}
+
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}

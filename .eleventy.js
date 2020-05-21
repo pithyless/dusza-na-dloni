@@ -6,7 +6,7 @@ module.exports = (function(eleventyConfig) {
     return {
 
         dir: {
-            output: "target",
+            output: "docs",
             input: "src",
             // data: "jsondata",
             // includes: "_includes",
