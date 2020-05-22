@@ -10,7 +10,7 @@
             <article class="poem-list">
                 <ul>
                     {% for poem in collections.poem -%}
-                    <li><a href="{{ poem.url }}">{{ poem.data.title }}</a></li>
+                    <li class="poem-list__item"><a href="{{ poem.url }}">{{ poem.data.title }}</a></li>
                     {% endfor -%}
                 </ul>
             </article>

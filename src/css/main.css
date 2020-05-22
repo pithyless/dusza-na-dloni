@@ -14,11 +14,13 @@ body {
 a:link,
 a:visited {
     text-decoration: none;
+    color: #303030;
 }
 
 a:hover,
 a:active {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #0000EE;
 }
 
 .header {
@@ -41,6 +43,7 @@ a:active {
 .navigation a:active {
     text-decoration: none;
     cursor: pointer;
+    color: #0000EE;
 }
 
 .main {
@@ -51,11 +54,29 @@ a:active {
     color: #3a3a3c;
 }
 
+.poem-list__item {
+    line-height: 2em;
+}
+
+.poem-list__item a:hover,
+.poem-list__item a:active {
+    text-decoration: none;
+    cursor: pointer;
+    color: #0000EE;
+}
+
 .poem__header {
     color: #3a3a3c;
     font-size: 1.5rem;
     margin-bottom: 1.5em;
     text-align: center;
+}
+
+.poem__header a:hover,
+.poem__header a:active {
+    text-decoration: none;
+    cursor: pointer;
+    color: #0000EE;
 }
 
 .poem p {
