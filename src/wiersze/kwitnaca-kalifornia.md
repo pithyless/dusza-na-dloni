@@ -44,3 +44,5 @@ date: 2020-05-21
 > Rozciągnięty po horyzont czarująco,  
 > czy też wybrany widoczek mniejszy  
 > Wyglądający szczególnie ujmująco...  
+>
+> Kalifornia, maj 2020
