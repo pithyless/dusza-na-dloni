@@ -1,0 +1,68 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    background-color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    line-height: 1.2em;
+    text-align: justify;
+    color: #303030;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    text-decoration: underline;
+}
+
+.header {
+    margin-top: 0.5em;
+}
+
+.navigation {
+    font-family: 'Marck Script', cursive;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.navigation {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+
+.navigation a:hover,
+.navigation a:active {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.main {
+    margin: 2em auto;
+}
+
+.poem-list a {
+    color: #3a3a3c;
+}
+
+.poem__header {
+    color: #3a3a3c;
+    font-size: 1.5rem;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+.poem p {
+    margin-bottom: 1em;
+}
+
+.poem__header {
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
