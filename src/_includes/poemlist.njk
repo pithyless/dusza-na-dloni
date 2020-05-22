@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        {% include "meta.njk" %}
+        <title>Dusza na Dłoni</title>
+    </head>
+    <body>
+        {% include "header.njk" %}
+        <main class="main">
+            <article class="poem-list">
+                <ul>
+                    {% for poem in collections.poem -%}
+                    <li><a href="{{ poem.url }}">{{ poem.data.title }}</a></li>
+                    {% endfor -%}
+                </ul>
+            </article>
+        </main>
+    </body>
+</html>

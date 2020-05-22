@@ -1,11 +1,9 @@
 ---
-layout: poem.html
+layout: poem.njk
 tags: poem
 title: Kwitnąca Kalifornia
 date: 2020-05-21
 ---
-
-# {{ title }}
 
 > Roześmiane słońca promieniami  
 > Kalifornijskie klify skaliste,  

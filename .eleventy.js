@@ -1,4 +1,4 @@
-module.exports = (function(eleventyConfig) {
+module.exports = (function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addPassthroughCopy("src/css");
@@ -12,7 +12,9 @@ module.exports = (function(eleventyConfig) {
             // includes: "_includes",
         },
 
-        templateFormats: ["md"]
+        templateFormats: ["njk", "md"],
+        htmlTemplateEngine: "njk",
+        markdownTemplateEngine: "njk"
     };
 
 });

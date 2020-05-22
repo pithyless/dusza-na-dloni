@@ -1,3 +1,3 @@
 ---
-layout: poemlist.html
+layout: poemlist.njk
 ---

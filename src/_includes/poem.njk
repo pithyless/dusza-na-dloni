@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        {% include "meta.njk" %}
+        <title>{{ title }} - Dusza na Dłoni</title>
+    </head>
+    <body>
+        {% include "header.njk" %}
+        <main class="main">
+            <article class="poem">
+                <header class="poem__header">
+                    {% set previousPoem = collections.poem | getPreviousCollectionItem(page) %}
+                    {% set nextPoem = collections.poem | getNextCollectionItem(page) %}
+                    <div class="poem__prev">
+                        {% if previousPoem %}<a href="{{ previousPoem.url }}" title="{{ previousPoem.data.title }}">〈</a>{% endif %}</li>
+                    </div>
+                    <div class="poem__title">{{ title }}</div>
+                    <div class="poem__next">
+                        {% if nextPoem %}<a class="poem__next" href="{{ nextPoem.url }}" title="{{ nextPoem.data.title }}">〉</a>{% endif %}</li>
+                    </div>
+                </header>
+                {{ content | safe }}
+            </article>
+        </main>
+    </body>
+</html>
