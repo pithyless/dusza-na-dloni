@@ -2,7 +2,8 @@
 layout: poem.njk
 tags: poem
 title: Zaraza na Lubelszczyźnie
-date: 2020-01-01
+date: 2020-03-29
+location: Markuszów
 ---
  
 > Poprzecinany nierównymi pasmami                                       
