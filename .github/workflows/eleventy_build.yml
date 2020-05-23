@@ -20,6 +20,9 @@ jobs:
 
       - name: Build website
         run: |
+          sudo locale-gen pl_PL
+          sudo locale-gen pl_PL.UTF-8
+          sudo update-locale
           npm install
           npm run build
 
