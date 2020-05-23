@@ -30,18 +30,3 @@ location: Chicago
 > Każdy człowiek ma rysy na swej duszy.  
 > Czy ta spokojna rozmowa, bez gniewu,  
 > jest dobra, choć nie cieszy i nie wzruszy?…  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
