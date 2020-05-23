@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "description": "app",
     "private": true,
-    "scripts": {},
+    "scripts": {
+        "build": "npx eleventy"
+    },
     "dependencies": {},
     "devDependencies": {
         "@11ty/eleventy": "0.11.0"
