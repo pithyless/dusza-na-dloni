@@ -25,4 +25,4 @@ date: 2019-06-01
 > trwożnie do Boga z modlitwą się skłania,  
 > z wiary nadzieją, że On ją usłyszy.  
 > 
-> Chicago, czerwiec 2020
+> Chicago, czerwiec 2019
