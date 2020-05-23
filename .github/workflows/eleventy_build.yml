@@ -11,7 +11,8 @@ jobs:
         run: |
           sudo locale-gen pl_PL
           sudo locale-gen pl_PL.UTF-8
-          sudo update-locale
+          DEBIAN_FRONTEND=noninteractive apt-get install -y locales
+          sudo update-locale LANG=pl_PL.UTF-8
 
       - name: Build using node.ks
         uses: actions/setup-node@v1
@@ -22,7 +23,8 @@ jobs:
         run: |
           sudo locale-gen pl_PL
           sudo locale-gen pl_PL.UTF-8
-          sudo update-locale
+          DEBIAN_FRONTEND=noninteractive apt-get install -y locales
+          sudo update-locale LANG=pl_PL.UTF-8
           npm install
           npm run build
 
