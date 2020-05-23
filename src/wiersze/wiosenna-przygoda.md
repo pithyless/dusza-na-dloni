@@ -2,13 +2,15 @@
 layout: poem.njk
 tags: poem
 title: Wiosenna Przygoda
-date: 2020-01-01
+date: 2019-05-23
+location: Chicago
 ---
 
 > Liliowym bzem zapachniało majowo,  
 > chciałoby się rozciągnąć w trawę świeżo ściętą.  
 > Czy ta miłość wiosenna uśmiechnięta wesoło  
 > ma szansę przetrwać pierwsze święta…?  
+>  
 > Świąt jest wiele! - zawołasz przekornie,  
 > delikatnie oplatając mnie swoim ramieniem.   
 > Mrużąc oczy, z drżeniem poddaję się tobie bezwolnie…  
