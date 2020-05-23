@@ -24,5 +24,4 @@ date: 2019-06-01
 > Cierpiąca dusza w rozpaczliwej ciszy  
 > trwożnie do Boga z modlitwą się skłania,  
 > z wiary nadzieją, że On ją usłyszy.  
-> 
-> Chicago, czerwiec 2019
+>  
