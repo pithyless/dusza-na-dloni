@@ -33,7 +33,7 @@ location: Kalifornia
 > 
 > żółtym kwieciem wzgórza upstrzone,  
 > Oświetlone, złocą się pogodnie.  
-> Albo rdzawym​ ​szalem otulone,  
+> Albo rdzawym szalem otulone,  
 > Olśniewając, kładą się łagodnie.  
 > 
 > Zachwycają połacie fioletowe,  
@@ -46,4 +46,3 @@ location: Kalifornia
 > czy też wybrany widoczek mniejszy  
 > Wyglądający szczególnie ujmująco...  
 >
-> Kalifornia, maj 2020
