@@ -2,7 +2,8 @@
 layout: poem.njk
 tags: poem
 title: Nieznajoma czarodziejka
-date: 2020-01-01
+date: 2020-01-12
+location: Chicago
 ---
 
 > Cukierkowo różowa,  
