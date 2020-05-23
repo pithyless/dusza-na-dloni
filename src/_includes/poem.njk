@@ -20,6 +20,7 @@
                     </div>
                 </header>
                 {{ content | safe }}
+                {{ location }}, {{ page.date | readableDate }}
             </article>
         </main>
         {% include "footer.njk" %}

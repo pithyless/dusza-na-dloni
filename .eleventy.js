@@ -3,6 +3,10 @@ module.exports = (function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addPassthroughCopy("src/css");
 
+    eleventyConfig.addFilter('readableDate', (dateObj) => {
+        return dateObj.toLocaleDateString("pl", {month: "long", year: "numeric"});
+    });
+
     return {
 
         dir: {
