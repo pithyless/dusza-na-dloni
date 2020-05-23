@@ -3,7 +3,7 @@ layout: poem.njk
 tags: poem
 title: Pająk i Mucha
 date: 2019-04-29
-location: Lublin
+miejsce: Lublin
 ---
 
 > Pracowity pająk stary   
