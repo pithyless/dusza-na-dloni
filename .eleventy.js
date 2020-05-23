@@ -8,7 +8,6 @@ module.exports = (function (eleventyConfig) {
     });
 
     return {
-
         dir: {
             output: "docs",
             input: "src",
@@ -20,5 +19,4 @@ module.exports = (function (eleventyConfig) {
         htmlTemplateEngine: "njk",
         markdownTemplateEngine: "njk"
     };
-
 });
