@@ -3,7 +3,7 @@ layout: poem.njk
 tags: poem
 title: Mamo!
 date: 2019-10-25
-miejsce: Chicago
+location: Chicago
 ---
 
 > Tęsknię za twoim dotykiem  

@@ -3,7 +3,7 @@ layout: poem.njk
 tags: poem
 title: Roller coaster
 date: 2019-01-29
-miejsce: Chicago
+location: Chicago
 ---
 
 > Siedzimy uśmiechnięci         
