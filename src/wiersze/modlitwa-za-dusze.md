@@ -2,7 +2,8 @@
 layout: poem.njk
 tags: poem
 title: Modlitwa za dusze
-date: 2020-01-01
+date: 2019-11-01
+location: Chicago
 ---
 
 > Nagle poczułam spokój niezwykły,  
