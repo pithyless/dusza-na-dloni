@@ -1,0 +1,7 @@
+#!/usr/bin/env bb -i
+
+
+(doseq [line *input*]
+  (let [line (-> line
+                 (str/replace "..." "…"))]
+    (println (str "> " line "  "))))
