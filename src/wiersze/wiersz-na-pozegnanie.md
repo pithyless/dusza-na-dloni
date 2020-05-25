@@ -4,6 +4,7 @@ tags: poem
 title: Wiersz na pożegnanie
 date: 2020-02-01
 location: Chicago
+bgimg: /img/pozegnanie-3.jpg
 ---
 
 > Przyjaciele odchodzą i zjawiają nowi.    
