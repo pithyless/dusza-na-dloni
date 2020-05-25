@@ -4,6 +4,7 @@ tags: poem
 title: Bezgłośny krzyk
 date: 2019-06-01
 bgimg: /img/bezglosny-krzyk-3.jpg
+location: Chicago
 ---
 
 > Wciąga mnie kosmosu czarna dziura…  
