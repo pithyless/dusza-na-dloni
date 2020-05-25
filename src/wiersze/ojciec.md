@@ -4,6 +4,7 @@ tags: poem
 title: Ojciec
 date: 2019-10-24
 location: Chicago
+bgimg: /img/ojciec.jpg
 ---
 
 > Małe dłonie obejmują męską szyję,  

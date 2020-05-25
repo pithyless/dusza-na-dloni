@@ -4,6 +4,7 @@ tags: poem
 title: Mamo!
 date: 2019-10-25
 location: Chicago
+bgimg: /img/mamo.jpg
 ---
 
 > Tęsknię za twoim dotykiem  

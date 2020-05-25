@@ -4,6 +4,7 @@ tags: poem
 title: Modlitwa za dusze
 date: 2019-11-01
 location: Chicago
+bgimg: /img/modlitwa.jpg
 ---
 
 > Nagle poczułam spokój niezwykły,  

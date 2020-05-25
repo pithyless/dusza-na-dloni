@@ -4,6 +4,7 @@ tags: poem
 title: Pająk i Mucha
 date: 2020-04-29
 location: Lublin
+bgimg: /img/pajak.jpg
 ---
 
 > Pracowity pająk stary   

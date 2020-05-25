@@ -4,6 +4,7 @@ tags: poem
 title: Roller coaster
 date: 2020-01-29
 location: Chicago
+bgimg: /img/rollercoaster.jpg
 ---
 
 > Siedzimy uśmiechnięci         
