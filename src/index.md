@@ -1,3 +1,4 @@
 ---
-layout: poemlist.njk
+layout: bio.njk
+bgimg: /img/reka8.jpg
 ---

@@ -2,6 +2,7 @@ module.exports = (function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/js");
     eleventyConfig.addPassthroughCopy("src/css");
+    eleventyConfig.addPassthroughCopy("src/img");
 
     eleventyConfig.addFilter('readableDate', (dateObj) => {
         return dateObj.toLocaleDateString("pl", {month: "long", year: "numeric"});

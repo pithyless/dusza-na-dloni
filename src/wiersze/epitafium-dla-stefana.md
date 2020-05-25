@@ -4,6 +4,7 @@ tags: poem
 title: Epitafium dla Stefana
 date: 2019-10-15
 location: Chicago
+bgimg: /img/stefan.jpg
 ---
 
 > Śniegiem okryła jesień Chicago,  

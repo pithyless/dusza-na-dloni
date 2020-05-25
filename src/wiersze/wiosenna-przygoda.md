@@ -4,6 +4,7 @@ tags: poem
 title: Wiosenna Przygoda
 date: 2019-05-23
 location: Chicago
+bgimg: /img/wiosenna-przygoda.jpg
 ---
 
 > Liliowym bzem zapachniało majowo,  

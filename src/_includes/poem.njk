@@ -1,28 +1,34 @@
-<!DOCTYPE html>
-<html lang="pl">
-    <head>
-        {% include "meta.njk" %}
-        <title>{{ title }} - Dusza na Dłoni</title>
-    </head>
-    <body>
-        {% include "header.njk" %}
-        <main class="main">
-            <article class="poem">
-                <header class="poem__header">
-                    {% set previousPoem = collections.poem | getPreviousCollectionItem(page) %}
-                    {% set nextPoem = collections.poem | getNextCollectionItem(page) %}
-                    <div class="poem__prev">
-                        {% if previousPoem %}<a href="{{ previousPoem.url }}" title="{{ previousPoem.data.title }}">〈</a>{% endif %}</li>
-                    </div>
-                    <div class="poem__title">{{ title }}</div>
-                    <div class="poem__next">
-                        {% if nextPoem %}<a class="poem__next" href="{{ nextPoem.url }}" title="{{ nextPoem.data.title }}">〉</a>{% endif %}</li>
-                    </div>
-                </header>
-                {{ content | safe }}
-                {{ location }}, {{ page.date | readableDate }}
-            </article>
-        </main>
-        {% include "footer.njk" %}
-    </body>
-</html>
+{% extends "base.njk" %}
+
+{% set previousPoem = collections.poem | getPreviousCollectionItem(page) %}
+{% set nextPoem = collections.poem | getNextCollectionItem(page) %}
+
+{% block mainblock %}
+<nav class="poem-nav">
+  {% if previousPoem %}
+  <a class="poem-nav__prev"
+     href="{{ previousPoem.url }}"
+     title="{{ previousPoem.data.title }}">
+    <i class="poem-nav__img fa fa-arrow-circle-left fa-3x" aria-hidden="true"></i>
+  </a>
+  {% endif %}
+  {% if nextPoem %}
+  <a class="poem-nav__next"
+     href="{{ nextPoem.url }}"
+     title="{{ nextPoem.data.title }}">
+    <i class="poem-nav__img fa fa-arrow-circle-right fa-3x" aria-hidden="true"></i>
+  </a>
+  {% endif %}
+</nav>
+
+<article class="poem__content">
+  <section class="poem__intro">
+    {{ title }}
+  </section>
+
+  {{ content | safe }}
+  <footer class="poem__outro">
+    {{ location }}, {{ page.date | readableDate }}
+  </section>
+</article>
+{% endblock %}

@@ -3,6 +3,7 @@ layout: poem.njk
 tags: poem
 title: Bezgłośny krzyk
 date: 2019-06-01
+bgimg: /img/bezglosny-krzyk-3.jpg
 ---
 
 > Wciąga mnie kosmosu czarna dziura…  

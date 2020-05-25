@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>{% if title %}{{ title }} - {% endif %}Dusza na Dłoni</title>
+    <style type="text/css">
+      .container:after {
+          {% if bgimg %}
+          background-image: url({{ bgimg }});
+          {% else %}
+          background-image: url("/img/prelude.jpg");
+          {% endif %}
+
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <main class="main">
+        <header class="header">
+          <nav class="nav">
+            <a class="nav__link" href="/">
+              Dusza na Dłoni
+            </a>
+            <a class="nav__link" href="/wiersze">
+              Wiersze
+            </a>
+          </nav>
+        </header>
+        {% block mainblock %}{% endblock %}
+        <footer class="footer">
+          <p class="footer__text">Copyright © 2019 - 2020 Hildegarda Wójtowicz</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

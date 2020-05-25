@@ -3,7 +3,8 @@ layout: poem.njk
 tags: poem
 title: Kwitnąca Kalifornia
 date: 2019-05-21
-location: Kalifornia 
+location: Kalifornia
+bgimg: /img/kalifornia.jpg
 ---
 
 > Roześmiane słońca promieniami  

@@ -1,20 +1,16 @@
-<!DOCTYPE html>
-<html lang="pl">
-    <head>
-        {% include "meta.njk" %}
-        <title>Dusza na Dłoni</title>
-    </head>
-    <body>
-        {% include "header.njk" %}
-        <main class="main">
-            <article class="poem-list">
-                <ul>
-                    {% for poem in collections.poem -%}
-                    <li class="poem-list__item"><a href="{{ poem.url }}">{{ poem.data.title }}</a></li>
-                    {% endfor -%}
-                </ul>
-            </article>
-        </main>
-        {% include "footer.njk" %}
-    </body>
-</html>
+{% extends "base.njk" %}
+
+{% block mainblock %}
+<article class="poem-toc">
+  <ul class="poem-toc__list">
+    {% for poem in collections.poem -%}
+    <li class="poem-toc__item">
+      <a class="poem-toc__link"
+         href="{{ poem.url }}">
+        {{ poem.data.title }}
+      </a>
+    </li>
+    {% endfor -%}
+  </ul>
+</article>
+{% endblock %}
