@@ -1,45 +1,61 @@
 <!DOCTYPE html>
 <html lang="pl">
-    <head>
-        <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/reset.css">
-<link rel="stylesheet" href="/css/main.css">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Bezgłośny krzyk - Dusza na Dłoni</title>
+    <style type="text/css">
+      .container:after {
+          
+          background-image: url(/img/bezglosny-krzyk-3.jpg);
+          
 
-        <title>Bezgłośny krzyk - Dusza na Dłoni</title>
-    </head>
-    <body>
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <main class="main">
         <header class="header">
-    <nav class="navigation">
-        <a class="navigation__logo" href="/">
-            Dusza na Dłoni
-        </a>
-        <a class="navigation__link" href="/wiersze">
-            Wiersze
-        </a>
-        <a class="navigation__link" href="/">
-            Biografia
-        </a>
-    </nav>
-</header>
+          <nav class="nav">
+            <a class="nav__link" href="/">
+              Dusza na Dłoni
+            </a>
+            <a class="nav__link" href="/wiersze">
+              Wiersze
+            </a>
+          </nav>
+        </header>
+        
+<nav class="poem-nav">
+  
+  <a class="poem-nav__prev"
+     href="/wiersze/wiosenna-przygoda/"
+     title="Wiosenna Przygoda">
+    <i class="poem-nav__img fa fa-arrow-circle-left fa-3x" aria-hidden="true"></i>
+  </a>
+  
+  
+  <a class="poem-nav__next"
+     href="/wiersze/epitafium-dla-stefana/"
+     title="Epitafium dla Stefana">
+    <i class="poem-nav__img fa fa-arrow-circle-right fa-3x" aria-hidden="true"></i>
+  </a>
+  
+</nav>
 
-        <main class="main">
-            <article class="poem">
-                <header class="poem__header">
-                    
-                    
-                    <div class="poem__prev">
-                        <a href="/wiersze/wiosenna-przygoda/" title="Wiosenna Przygoda">〈</a></li>
-                    </div>
-                    <div class="poem__title">Bezgłośny krzyk</div>
-                    <div class="poem__next">
-                        <a class="poem__next" href="/wiersze/epitafium-dla-stefana/" title="Epitafium dla Stefana">〉</a></li>
-                    </div>
-                </header>
-                <blockquote>
+<article class="poem__content">
+  <section class="poem__intro">
+    Bezgłośny krzyk
+  </section>
+
+  <blockquote>
 <p>Wciąga mnie kosmosu czarna dziura…<br>
 Bezgłośnie wołam w stronę ludzi<br>
 przepływających obok mnie jak chmura,<br>
@@ -58,11 +74,15 @@ trwożnie do Boga z modlitwą się skłania,<br>
 z wiary nadzieją, że On ją usłyszy.</p>
 </blockquote>
 
-                , June 2019
-            </article>
-        </main>
+  <footer class="poem__outro">
+    , June 2019
+  </section>
+</article>
+
         <footer class="footer">
-    <p class="footer__text">Copyright ©️ 2020 Hildegarda Wójtowicz</p>
-</footer>
-    </body>
+          <p class="footer__text">Copyright © 2019 - 2020 Hildegarda Wójtowicz</p>
+        </footer>
+      </main>
+    </div>
+  </body>
 </html>
