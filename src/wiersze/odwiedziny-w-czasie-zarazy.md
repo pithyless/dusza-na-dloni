@@ -4,6 +4,7 @@ tags: poem
 title: Odwiedziny w czasie zarazy
 date: 2020-04-19
 location: Lublin
+bgimg: /img/odwiedziny-w-czasie-zarazy.jpg
 ---
 
 > Idzie Jezus przez Polskę. Bardzo jest zdziwiony?!  
