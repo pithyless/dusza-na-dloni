@@ -4,6 +4,7 @@ tags: poem
 title: Przyjaciółka
 date: 2020-04-25
 location: Lublin
+bgimg: /img/przyjaciolka.jpg
 ---
 
 > Jest taka mała i jasna jak stokrotka na łące,  
