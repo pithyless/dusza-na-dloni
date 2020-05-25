@@ -4,6 +4,7 @@ tags: poem
 title: Wielkanoc w czasie pandemii
 date: 2020-04-12
 location: Chicago
+bgimg: /img/wielkanoc.jpg
 ---
 
 > Wesołych Świąt! Chrystus Zmartwychwstał!   
