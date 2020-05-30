@@ -1,7 +1,7 @@
 {% extends "base.njk" %}
 
 {% block mainblock %}
-<article class="bio">
-  O mnie...
+<article class="bio poem__content">
+  {{ content | safe }}
 </article>
 {% endblock %}

@@ -1,7 +1,7 @@
 ---
 layout: poem.njk
 tags: poem
-title: Ja i ty
+title: Ja i Ty
 date: 2020-05-23
 location: Chicago
 bgimg: /img/ja-i-ty.jpg
