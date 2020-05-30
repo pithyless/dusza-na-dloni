@@ -4,6 +4,7 @@ tags: poem
 title: Tancerka
 date: 2019-08-24
 location: Chicago
+bgimg: /img/tancerka.jpg
 ---
 
 > Tancerka natchniona, muzyką odurzona  

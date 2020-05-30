@@ -4,6 +4,7 @@ tags: poem
 title: Wiersz o nas
 date: 2020-03-01
 location: Kraków
+bgimg: /img/o-nas.jpg
 ---
 
 > Nie liczymy dni, nie sprawdzamy dat...  

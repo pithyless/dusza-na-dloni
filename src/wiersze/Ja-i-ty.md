@@ -4,6 +4,7 @@ tags: poem
 title: Ja i ty
 date: 2020-05-23
 location: Chicago
+bgimg: /img/ja-i-ty.jpg
 ---
 
 > Jesteśmy jak na morzu dwa statki  
