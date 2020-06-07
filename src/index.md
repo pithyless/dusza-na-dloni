@@ -1,6 +1,6 @@
 ---
 layout: bio.njk
-bgimg: /img/reka8.jpg
+bgimg: /img/reka.jpg
 ---
 
 
