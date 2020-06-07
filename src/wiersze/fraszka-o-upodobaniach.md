@@ -1,8 +1,10 @@
+---
 layout: poem.njk
 tags: poem
 title: Fraszka o upodobaniach
 date: 2019-07-18
 location: Chicago
+---
 
 > O szczupłej partnerce gruby sennie marzy   
 > Chudy krągłe kształty względami obdarzy  
