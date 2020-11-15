@@ -3,6 +3,7 @@ layout: poem.njk
 tags: poem
 title: Fraszka o upodobaniach
 date: 2019-07-18
+bgimg: /img/fraszka-o-upodobaniach.jpg
 location: Chicago
 ---
 

@@ -3,6 +3,7 @@ layout: poem.njk
 tags: poem
 title: Zaraza na Lubelszczyźnie
 date: 2020-03-29
+bgimg: /img/zaraza-na-lubelszczyznie.jpg
 location: Markuszów
 ---
  
