@@ -3,7 +3,7 @@ layout: poem.njk
 tags: poem
 title: Niezwykły ogórek
 date: 2020-10-05
-
+bgimg: /img/niezwykly-ogorek.jpg
 location: Chicago
 ---
 
