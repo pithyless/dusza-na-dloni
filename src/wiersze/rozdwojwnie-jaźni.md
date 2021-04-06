@@ -13,8 +13,8 @@ location: Lublin
 >  
 > Dusza błąka się, krąży między lądami,                     
 > między niebem a ziemią - dwoma światami.  
-> Gdy zapukasz do bram, w progu cię witają  
-> przelotnym uśmiechem, lecz nie zapraszają.  
+> Przelotnym uśmiechem w progu cię witają,  
+> gdy zapukasz do bram, lecz nie zapraszają.  
 >  
 > Odwiedzasz znajome miejsca ukochane,  
 > sercu bliskie, teraz mocno pozmieniane.  
