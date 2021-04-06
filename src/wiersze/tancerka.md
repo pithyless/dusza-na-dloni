@@ -17,7 +17,7 @@ bgimg: /img/tancerka.jpg
 > Wytworzoną dźwiękami energią wybucha ,                 
 > zdaje się że fruwa, ziemi nie dotykając.  
 > 
-> Płynnie we wszystkie strony wije się sprężyście,       
+> Płynnie, we wszystkie strony wije się sprężyście,       
 > oszałamiając zmysły, elastyczne ciało.                       
 > Krew w harmonii z nutami pulsuje rytmicznie,  
 > nieracjonalny w mózgu wywołując chaos.  
