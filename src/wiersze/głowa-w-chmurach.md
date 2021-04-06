@@ -14,7 +14,7 @@ location: Chicago
 > Są barwą i smakiem w życiu człowieka,  
 > potrzebne, choć zwykle niedoceniane.  
 > Bo ludzkość na marzycieli narzeka,  
-> że śnią mrzonki nierealizowane.   
+> że śnią mrzonki niespełniane.   
 >  
 > W czasach gdy wszystko jest do spieniężenia,         
 > a ideały znaczą tak niewiele,  
