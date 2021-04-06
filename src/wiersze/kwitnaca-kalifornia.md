@@ -28,12 +28,12 @@ bgimg: /img/kalifornia.jpg
 > Finezją zdumiewając kolorystów.  
 > 
 > Bo oto ożywione soczystą zielenią,  
-> deszczami upojone, spadające zbocza  
-> wszystkimi kolorami się mienią,  
-> wystrojone jak panna urocza.  
+> Deszczami upojone, spadające zbocza  
+> Wszystkimi kolorami się mienią,  
+> Wystrojone jak panna urocza.  
 > 
-> żółtym kwieciem wzgórza upstrzone,  
-> Oświetlone, złocą się pogodnie.  
+> Żółtym kwieciem wzgórza upstrzone,  
+> Oświetlone, złocą się pogodnie,  
 > Albo rdzawym szalem otulone,  
 > Olśniewając, kładą się łagodnie.  
 > 
@@ -44,6 +44,6 @@ bgimg: /img/kalifornia.jpg
 > 
 > Trudno wskazać, który pejzaż ładniejszy:  
 > Rozciągnięty po horyzont czarująco,  
-> czy też wybrany widoczek mniejszy  
+> Czy też wybrany widoczek mniejszy  
 > Wyglądający szczególnie ujmująco...  
 >
