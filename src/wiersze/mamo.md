@@ -25,7 +25,7 @@ bgimg: /img/mamo.jpg
 > Podziwiałam twoją wiedzę i rozum.  
 > Choć nie miałaś jeszcze internetu,  
 > tyle przecież wiedziałaś o świecie,  
-> że z twych rady skorzystam w każdym wieku.  
+> że z twych rad korzystam w każdym wieku.  
 > 
 > Przyjaciółką mi byłaś najwierniejszą.  
 > Czemu dopiero teraz to doceniam?  
