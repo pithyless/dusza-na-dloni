@@ -4,6 +4,7 @@ tags: poem
 title: Rozdwojenie jaźni
 date: 2020-10-07
 location: Lublin
+bgimg: /img/rozdwojenie.jpg
 ---
 
 > Kiedy w jakimś miejscu pół życia spędziłeś,  

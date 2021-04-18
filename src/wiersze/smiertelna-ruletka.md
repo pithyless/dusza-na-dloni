@@ -4,6 +4,7 @@ tags: poem
 title: Śmiertelna ruletka
 date: 2020-09-05
 location: Chicago  
+bgimg: /img/ruletka.jpg
 ---
 
 > Czerwona rzeka mknie przez miasto                         

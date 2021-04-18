@@ -4,6 +4,7 @@ tags: poem
 title: Głowa w chmurach
 date: 2019-09-17
 location: Chicago
+bgimg: /img/glowa-w-chmurach.jpg
 ---
 
 > Przeróżne chodzą po świecie marzenia:  
